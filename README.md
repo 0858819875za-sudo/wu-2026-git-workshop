@@ -1,1 +1,1 @@
-# wu-2026-git-workshop
+# wu-2026-git-workshopx
